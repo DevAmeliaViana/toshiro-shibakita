@@ -1,9 +1,3 @@
-Olá\! Que ótimo projeto para aprimorar suas habilidades em **Docker e Microsserviços**\!
-
-Com base nas informações fornecidas, preparei um texto em Markdown que você pode usar como **README** para o seu repositório no GitHub. Ele está organizado para ser informativo e atraente.
-
------
-
 # 🐳 Projeto: Docker: Utilização Prática no Cenário de Microsserviços
 
 ## 🚀 Visão Geral do Desafio
@@ -64,8 +58,8 @@ Para replicar e aprimorar este projeto, é necessário ter:
 1.  **Clone o repositório:**
 
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
-    cd [pasta-do-seu-repositorio]
+    git clone [$ git clone git@github.com:DevAmeliaViana/toshiro-shibakita.git]
+    
     ```
 
 2.  **Construa e Suba os Containers:**
